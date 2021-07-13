@@ -1,0 +1,21 @@
+body {
+  background: blue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+/* git --version
+
+1.git init - initialize a project as git repo
+2.git add.  - add files to staging area
+3.git commit - M "initial commit" - commit files,essentially we are goint to create a snapshot of our directory,waht isnthe state of the project currently
+clear-clear out terminal
+commit--sopordo kora
+repo-repository(store-house)
+*/
+
+/*
+git init --> clear --> git add(index.html)-manual adding or -->git add. -->git commit -m "initial commit"(m for message you can write any message)
+
+*/
